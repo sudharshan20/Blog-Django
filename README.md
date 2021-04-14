@@ -10,6 +10,7 @@ Instructions to run
 7.Enter the following commands
 8.python manage.py migrate
 9.python manage.py makemigrations
-10.python manage.py runserver
-11.Hope you have a active internet connection to experience bootstrap and css.
+10.python manage.py createsuperuser
+11.python manage.py runserver
+12.Hope you have a active internet connection to experience bootstrap and css.
 Please do install django and virtual environment befor doing the steps
